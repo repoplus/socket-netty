@@ -1,0 +1,6 @@
+*.classpath
+target/
+.settings/org.eclipse.wst.validation.prefs
+.settings/org.eclipse.wst.jsdt.ui.superType.name
+.settings/
+.project
